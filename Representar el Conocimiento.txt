@@ -1,0 +1,19 @@
+    Ingeniería del Conocimiento: Ontologías: Las ontologías son estructuras de conocimiento que definen conceptos y relaciones entre conceptos en un dominio específico. Son una parte importante de la ingeniería del conocimiento, ya que permiten una representación formal y consistente del conocimiento en un dominio particular.
+
+    Taxonomías: Categorías y Objetos: Las taxonomías son sistemas de clasificación jerárquica que organizan conceptos o entidades en categorías y subcategorías. Estas estructuras se utilizan para representar relaciones de subclase y subconjunto entre objetos o conceptos.
+
+    Acciones, Situaciones y Eventos: Marcos: Los marcos son una técnica de representación del conocimiento que se utiliza para organizar información en estructuras de datos jerárquicas. Se pueden usar para representar objetos y situaciones, incluyendo información sobre atributos y relaciones.
+
+    Eventos y Objetos Mentales: Creencias: La representación de creencias se refiere a cómo se almacenan y gestionan las creencias, expectativas y estados mentales de un agente o sistema. Esto es relevante en aplicaciones de inteligencia artificial centradas en agentes racionales.
+
+    Reglas, Redes Semánticas y Lógica Descriptiva: Las reglas, las redes semánticas y la lógica descriptiva son técnicas para representar relaciones y restricciones lógicas entre conceptos y hechos. Se utilizan para modelar el razonamiento lógico en sistemas expertos.
+
+    Razonamiento por Defecto y No Monotónico: Estos enfoques son importantes para tratar con conocimiento incierto o incompleto. Permiten el razonamiento en situaciones en las que las conclusiones pueden cambiar a medida que se adquiere más información.
+
+    Incertidumbre y Factores de Certeza: La incertidumbre se relaciona con la probabilidad y la confiabilidad de la información. La representación de la incertidumbre es esencial en aplicaciones que implican toma de decisiones en condiciones inciertas.
+
+    Sistemas Expertos: Los sistemas expertos son aplicaciones de inteligencia artificial que utilizan una base de conocimiento y reglas para emular la toma de decisiones y el razonamiento de un experto humano en un dominio específico. La representación del conocimiento es fundamental en la construcción de sistemas expertos.
+
+    Modelo Probabilista Racional: Se refiere a la utilización de modelos probabilísticos para representar y razonar sobre el conocimiento. Los modelos probabilísticos se utilizan para calcular la probabilidad de ciertos eventos o conclusiones.
+
+En resumen, todos estos temas están relacionados con la representación del conocimiento en diferentes aspectos y contextos, y son fundamentales en la construcción de sistemas inteligentes y sistemas de toma de decisiones en inteligencia artificial e ingeniería del conocimiento.
